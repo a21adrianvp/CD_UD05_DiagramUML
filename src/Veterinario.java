@@ -26,3 +26,5 @@ public class Veterinario {
         this.especialidad = especialidad;
     }
 }
+
+
